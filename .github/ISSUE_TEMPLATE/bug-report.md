@@ -26,7 +26,7 @@ assignees: ''
 
 <!-- Text -->
 
-### What is Expected?
+### What is expected?
 
 <!-- Text -->
 

@@ -9,7 +9,7 @@ Commits should follow the [Conventional Commits spec](https://conventionalcommit
 ## Project setup
 
 1. Fork and clone the repo
-2. `bundle install && yarn install` to install dependencies
+2. Run `bundle install && yarn install` to install dependencies
 3. Create a branch for your PR
 
 > Tip: Keep your `main` branch pointing at the original repository and make
@@ -21,10 +21,10 @@ Commits should follow the [Conventional Commits spec](https://conventionalcommit
 > git branch --set-upstream-to=upstream/main main
 > ```
 >
-> This will add the original repository as a "remote" called "upstream," Then
+> This will add the original repository as a "remote" called "upstream". Then
 > fetch the git information from that remote, then set your local `main`
-> branch to use the upstream main branch whenever you run `git pull`. Then you
-> can make all of your pull request branches based on this `main` branch.
+> branch to use the upstream main branch whenever you run `git pull`. You
+> can then make all of your pull request branches based on this `main` branch.
 > Whenever you want to update your version of `main`, do a regular `git pull`.
 
 ## Help needed

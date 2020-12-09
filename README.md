@@ -14,7 +14,7 @@
 
 ## Table of contents
 
-- [Table of contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
 - [Extensions](#extensions)
 - [Installation](#installation)
 - [Issues](#issues)

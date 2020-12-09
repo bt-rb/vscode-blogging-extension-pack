@@ -31,7 +31,8 @@
   "publisher": "andrewmcodes",
   "scripts": {
     "deploy": "vsce publish --yarn",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
   "devDependencies": {
     "standard-version": "^9.0.0",

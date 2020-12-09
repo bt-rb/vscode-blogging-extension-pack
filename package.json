@@ -34,6 +34,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "standard-version": "^9.0.0",
     "vsce": "^1.81.1"
   },
   "extensionPack": [

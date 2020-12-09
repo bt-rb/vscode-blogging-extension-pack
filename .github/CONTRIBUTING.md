@@ -16,7 +16,7 @@ Commits should follow the [Conventional Commits spec](https://conventionalcommit
 > pull requests from branches on your fork. To do this, run:
 >
 > ```
-> git remote add upstream https://github.com/btrb/vscode-blogging-extension-pack
+> git remote add upstream https://github.com/bt-rb/vscode-blogging-extension-pack
 > git fetch upstream
 > git branch --set-upstream-to=upstream/main main
 > ```
@@ -35,5 +35,5 @@ Also, please watch the repo and respond to questions/bug reports/feature
 requests! Thanks!
 
 <!-- prettier-ignore-start -->
-[issues]: https://github.com/btrb/vscode-blogging-extension-pack/issues
+[issues]: https://github.com/bt-rb/vscode-blogging-extension-pack/issues
 <!-- prettier-ignore-end -->

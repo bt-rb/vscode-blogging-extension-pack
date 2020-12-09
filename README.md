@@ -58,7 +58,7 @@ Please make sure to read the [Issue Reporting Checklist](.github/CONTRIBUTING.md
 
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/bt-rb/bridgetown-blogging-extension-pack/releases).
+Detailed changes for each release are documented in the [release notes](https://github.com/bt-rb/vscode-blogging-extension-pack/releases).
 
 ## Contribution
 Please make sure to read the [Contributing Guide](.github/CONTRIBUTING.md) before making a pull request.

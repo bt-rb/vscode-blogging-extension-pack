@@ -1,20 +1,49 @@
 {
   "name": "bridgetown-blogging-extension-pack",
   "displayName": "Bridgetown Blogging Extension Pack",
-  "description": "A collection of extensions to enhance content curation and creation for VS Code + Bridgetown.",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.51.0"
-  },
+  "private": true,
+  "description": "A collection of extensions to enhance content curation and creation for VS Code + Bridgetown.",
   "categories": [
     "Extension Packs"
   ],
+  "keywords": [
+    "bridgetown",
+    "bridgetownrb",
+    "markdown",
+    "blogging",
+    "btrb",
+    "pack",
+    "packs",
+    "extensions",
+    "vscode"
+  ],
+  "homepage": "https://github.com/bt-rb/vscode-blogging-extension-pack#readme",
+  "bugs": {
+    "url": "https://github.com/bt-rb/vscode-blogging-extension-pack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bt-rb/vscode-blogging-extension-pack.git"
+  },
+  "license": "MIT",
+  "author": "Andrew Mason",
+  "publisher": "andrewmcodes",
+  "scripts": {
+    "deploy": "vsce publish --yarn",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "vsce": "^1.81.1"
+  },
   "extensionPack": [
+    "DavidAnson.vscode-markdownlint",
+    "PascalReitermann93.vscode-yaml-sort",
+    "RandomFractalsInc.vscode-data-preview",
     "bierner.emojisense",
     "bierner.markdown-footnotes",
     "bungcip.better-toml",
     "cssho.vscode-svgviewer",
-    "DavidAnson.vscode-markdownlint",
     "eliostruyf.vscode-front-matter",
     "esbenp.prettier-vscode",
     "jjaakko.markdown-kbd",
@@ -22,8 +51,6 @@
     "kortina.vscode-markdown-notes",
     "mathiassoeholm.markdown-link-updater",
     "mrmlnc.vscode-duplicate",
-    "PascalReitermann93.vscode-yaml-sort",
-    "RandomFractalsInc.vscode-data-preview",
     "redhat.vscode-yaml",
     "richie5um2.vscode-sort-json",
     "ritwickdey.LiveServer",
@@ -33,5 +60,9 @@
     "tombonnike.vscode-status-bar-format-toggle",
     "yzhang.markdown-all-in-one",
     "znck.grammarly"
-  ]
+  ],
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "icon": "assets/logo.png"
 }

@@ -1,20 +1,20 @@
 <p align="center">
   <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-    <img src=".github/img/logo.svg" width="100px">
+    <img src="assets/logo.png" width="100px">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/btrb-README-906bed">
-  <img src="https://img.shields.io/github/license/btrb/bridgetown-blogging-extension-pack">
-</p>
+[![vsm-version](https://img.shields.io/visual-studio-marketplace/v/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
+[![vsm-downloads](https://img.shields.io/visual-studio-marketplace/d/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=downloads&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
+[![vsm-installs](https://img.shields.io/visual-studio-marketplace/i/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=installs&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
+[![vsm-rating](https://img.shields.io/visual-studio-marketplace/r/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=rating&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
+[![vsm-stars](https://img.shields.io/visual-studio-marketplace/stars/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=stars&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
 
 <h1 align="center">Bridgetown Blogging Extension Pack for VS Code</h1>
-<h2 align="center">btrb/bridgetown-blogging-extension-pack</h2>
 
 ## Table of contents
 
-- [Table of Contents](#table-of-contents)
+- [Table of contents](#table-of-contents)
 - [Extensions](#extensions)
 - [Installation](#installation)
 - [Issues](#issues)
@@ -50,7 +50,7 @@
 
 ## Installation
 
-TODO
+[Install the extension from this link!](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
 
 ## Issues
 

@@ -1,0 +1,37 @@
+{
+  "name": "bridgetown-blogging-extension-pack",
+  "displayName": "Bridgetown Blogging Extension Pack",
+  "description": "A collection of extensions to enhance content curation and creation for VS Code + Bridgetown.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bierner.emojisense",
+    "bierner.markdown-footnotes",
+    "bungcip.better-toml",
+    "cssho.vscode-svgviewer",
+    "DavidAnson.vscode-markdownlint",
+    "eliostruyf.vscode-front-matter",
+    "esbenp.prettier-vscode",
+    "jjaakko.markdown-kbd",
+    "josee9988.changelog-and-markdown-snippets",
+    "kortina.vscode-markdown-notes",
+    "mathiassoeholm.markdown-link-updater",
+    "mrmlnc.vscode-duplicate",
+    "PascalReitermann93.vscode-yaml-sort",
+    "RandomFractalsInc.vscode-data-preview",
+    "redhat.vscode-yaml",
+    "richie5um2.vscode-sort-json",
+    "ritwickdey.LiveServer",
+    "shd101wyy.crossnote",
+    "skn0tt.markdown-link-expander",
+    "skn0tt.markdown-tweet-expander",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "yzhang.markdown-all-in-one",
+    "znck.grammarly"
+  ]
+}

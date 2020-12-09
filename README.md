@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-    <img src=".github/img/logo.svg" width="100px">
+    <img src="assets/logo.png" width="100px">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## Table of contents
 
-- [Table of Contents](#table-of-contents)
+- [Table of contents](#table-of-contents)
 - [Extensions](#extensions)
 - [Installation](#installation)
 - [Issues](#issues)

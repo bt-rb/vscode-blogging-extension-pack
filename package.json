@@ -1,7 +1,7 @@
 {
   "name": "bridgetown-blogging-extension-pack",
   "displayName": "Bridgetown Blogging Extension Pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "A collection of extensions to enhance content curation and creation for VS Code + Bridgetown.",
   "categories": [

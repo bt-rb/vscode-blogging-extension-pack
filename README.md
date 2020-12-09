@@ -1,16 +1,15 @@
 <p align="center">
   <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-    <img src="assets/logo.png" width="100px">
+    <img src="https://github.com/bt-rb/vscode-blogging-extension-pack/blob/main/assets/logo.png?raw=true" width="100px">
   </a>
 </p>
+<h1 align="center">Bridgetown Blogging Extension Pack for VS Code</h1>
 
 [![vsm-version](https://img.shields.io/visual-studio-marketplace/v/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
 [![vsm-downloads](https://img.shields.io/visual-studio-marketplace/d/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=downloads&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
 [![vsm-installs](https://img.shields.io/visual-studio-marketplace/i/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=installs&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
 [![vsm-rating](https://img.shields.io/visual-studio-marketplace/r/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=rating&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
 [![vsm-stars](https://img.shields.io/visual-studio-marketplace/stars/andrewmcodes.bridgetown-blogging-extension-pack?style=flat-square&label=stars&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andrewmcodes.bridgetown-blogging-extension-pack)
-
-<h1 align="center">Bridgetown Blogging Extension Pack for VS Code</h1>
 
 ## Table of contents
 
